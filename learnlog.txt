@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 the log record learn for git.
 1.first edit the file.
 2.fix the conflit between remote and local.
